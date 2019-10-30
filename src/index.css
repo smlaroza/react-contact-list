@@ -59,6 +59,7 @@ p {
   border-bottom: 2px solid rgba(237, 237, 237);
   padding-top: 6px;
   padding-bottom: 6px;
+  padding-left: 15px;
 }
 
 .contactpage img {
@@ -71,4 +72,8 @@ p {
 .tlimg {
   border-radius: 50px;
   margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
 }
